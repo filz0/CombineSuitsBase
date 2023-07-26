@@ -1,0 +1,9 @@
+"UnlitGeneric"
+
+{ "$basetexture" "overlays/eliteoverlay" 
+  
+  "$translucent" 1
+ 
+
+
+} 
