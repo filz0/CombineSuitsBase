@@ -1,7 +1,0 @@
-"UnlitGeneric" 
-{ 
-	"$basetexture"		"vgui/entities/csb_metropolice" 
-	"$vertexcolor" 		1 
-	"$vertexalpha" 		1 
-	"$nolod" 		1 
-}

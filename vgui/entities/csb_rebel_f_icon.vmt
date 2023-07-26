@@ -1,7 +1,0 @@
-"UnlitGeneric" 
-{ 
-	"$basetexture"		"vgui/entities/csb_rebel_f_icon" 
-	"$vertexcolor" 		1 
-	"$vertexalpha" 		1 
-	"$nolod" 		1 
-}
