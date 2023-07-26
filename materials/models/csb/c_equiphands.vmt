@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/csb/c_equiphands"
+	"%keywords" "c_equiphands"
+	"$translucent" 1
+	"$halflambert" 1
+	"$model" 1
+	"$nocull" 1
+	
+}

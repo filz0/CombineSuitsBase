@@ -1,0 +1,15 @@
+"UnlitGeneric"
+{
+	"$basetexture" "csb_poster"
+
+	"Proxies" 
+	{ 
+		"AnimatedTexture" 
+		{
+			"animatedTextureVar" "$basetexture" 
+			"animatedTextureFrameNumVar" "$frame" 
+			"animatedTextureFrameRate" "0.5"
+		 } 
+	} 
+}
+
